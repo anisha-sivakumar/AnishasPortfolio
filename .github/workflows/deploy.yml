@@ -1,4 +1,4 @@
-name: Deploy IndianRecipeAPP
+name: Deploy AnishasPortfolio
 on:
   workflow_dispatch:
   push:
